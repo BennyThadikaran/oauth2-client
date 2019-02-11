@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "src/",
+      "Auth\\": "src/Auth/",
+      "Auth\\Provider\\": "src/Auth/Provider"
+    }
+  }
+}
