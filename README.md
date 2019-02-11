@@ -1,10 +1,10 @@
 # OAuth2 client
 
-An implementation of OAuth2 client implementation using PHP
+An implementation of OAuth2 client implementation using PHP 7
 
 This is an example for demonstration. Not for production use.
 
-- PHP 7 and higher.
+- PHP 7.0 and higher.
 - Integrates with Facebook, Google and Yahoo.
 
 ## Structure
