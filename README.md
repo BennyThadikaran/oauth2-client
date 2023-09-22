@@ -1,4 +1,4 @@
-# OAuth2 client
+# OAuth2 client [ARCHIVED - NOT MAINTAINED]
 
 An implementation of OAuth2 client implementation using PHP 7
 
